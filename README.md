@@ -1,4 +1,4 @@
-# CS-3720-Advanced-Topics-in-IOT
+# CS 3720 - Advanced Topics in IOT
 
 WHICH CODE IN WHICH FILE?
 
